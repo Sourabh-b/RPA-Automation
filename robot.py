@@ -55,9 +55,6 @@ def search_app(application: str):
     driver.find_element_by_xpath('/html/body/div[1]/div[1]/span/div/div[6]/table/tbody/tr/td/div/table/tbody/tr[1]/td[3]/a').click()
 
 
-def fetch_data():
-	driver.find_element_by_xpath('//*[@id="sys_readonly.cmdb_ci_business_app.operational_status"]')
-
 def main():
     try:
         open_the_website(url)
