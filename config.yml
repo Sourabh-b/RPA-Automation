@@ -1,0 +1,17 @@
+apps : app.txt
+usr_id : esp_itom_dev.gen
+pasword : <>
+db_name : Automation
+username : <>
+password : <>
+security_token : 1SomAxu4ZwN3S6Pwac56tV2eg
+client_id : <>
+domain : <>
+threatmodel_api : <>
+sts_uri : https://cloudsso.cisco.com/idp/sts.wst
+instance : cisco
+threatmodel_api_data : threatmodeldata.json
+git_token : <>
+git_url : https://www-github.cisco.com/
+git_org : LC-SecurityDPP
+git_topic : automatic-profiler
